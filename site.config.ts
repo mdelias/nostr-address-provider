@@ -13,7 +13,7 @@ export default {
     "LNURL1DP68GURN8GHJ7MRW9E6XJURN9UH8WETVDSKKKMN0WAHZ7MRWW4EXCUP0XPURXCECX56RJWRPVV6RXVP3VVMRJRM2AHQ",
 
   // name of your MongoDB database
-  dbName: "users",
+  dbName: "usersesq",
 
   // name of your MongoDB collection
   dbCollection: "registered",
