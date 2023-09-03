@@ -1,6 +1,6 @@
 export default {
   // your domain name
-  host: "wyo.name",
+  host: "wyo.esq",
 
   // set to true to disable registration site-wide
   registrationDisabled: false,
